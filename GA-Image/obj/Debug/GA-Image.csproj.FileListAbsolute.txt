@@ -1,0 +1,5 @@
+c:\users\austin\documents\visual studio 2017\Projects\GA-Image\GA-Image\bin\Debug\GA-Image.exe.config
+c:\users\austin\documents\visual studio 2017\Projects\GA-Image\GA-Image\bin\Debug\GA-Image.exe
+c:\users\austin\documents\visual studio 2017\Projects\GA-Image\GA-Image\bin\Debug\GA-Image.pdb
+c:\users\austin\documents\visual studio 2017\Projects\GA-Image\GA-Image\obj\Debug\GA-Image.exe
+c:\users\austin\documents\visual studio 2017\Projects\GA-Image\GA-Image\obj\Debug\GA-Image.pdb
